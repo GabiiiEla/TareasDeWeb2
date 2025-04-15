@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(36, 32, 32);
+}
+
+#main{
+
+    background-color: rgb(247, 124, 185);
+    margin: 10px;
+    padding: 3px;
+    
+    
+}
+#caja{
+    background-color: rgb(41, 39, 39);
+    margin: 10px;
+    padding: 100px;
+}
+#caja1{
+    background-color: palevioletred;
+    height: 30px;
+    padding: 2%;
+}
+#caja2{
+    background-color: palevioletred;
+    height: 158px;
+    padding: 7%;
+    float: left;
+}
+
+#caja3{
+    
+    height: 30px;
+    padding: 2%;
+    
+}
+#caja4{
+    background-color: palevioletred;
+    height: 78px;
+    padding: 7%;
+    float: right;
+}
+#caja5{
+    background-color: palevioletred;
+    position: relative;
+    left: 460px;
+    top: 0%;
+    padding: 3%;
+    width: 548px;
+    
+}
+#caja6{
+    
+    height: 30px;
+    padding: 2%;
+    
+}
+#caja7{
+    
+    height: 30px;
+    padding: 2%;
+
+    
+}
+#caja8{
+    background-color: palevioletred;
+    height: 30px;
+    padding: 2%;
+}
